@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=justinsj&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi! I'm Justin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -13,16 +13,16 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I work on building highly available and scalable systems.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I practice algorithms and systems design in AlgoExpert.
+- ⚡ In my free time, I practice algorithms and systems design in AlgoExpert.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-justinsj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-sj)
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<h2>Languages<h2>
+<h2>Languages</h2>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

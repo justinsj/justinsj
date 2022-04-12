@@ -14,8 +14,9 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
 
 - 🔭 I work on building highly available and scalable systems.
+- 📋 I love organizing activities and events!
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I practice algorithms and systems design in AlgoExpert.
+- ⚡ In my free time, I love reading books, playing soccer, and prototyping app ideas.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-justinsj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-sj)
 
 ---

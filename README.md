@@ -35,7 +35,7 @@
 - ⚡ In my free time, I love reading books 📖, playing soccer ⚽, and prototyping app ideas 📊.
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/11aQ9crBbp2L7DXCPFPcZH4aE1gL2Zj1V/view?usp=sharing).
 
-<h3>My Current Stack</h3>
+<h2>My Current Stack</h2>
 <p>
 <img height="48" src="img/c-plus-plus.svg" alt="c++">&nbsp; 
 <img height="48" src="img/python-original.svg" alt="python">&nbsp; 
@@ -50,6 +50,7 @@
 <img height="48" src="img/react-original.svg" alt="react">&nbsp;
 
 
+## Languages and Tools
 <h3>Languages</h3>
 <p>
 <img src="img/c-plus-plus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;

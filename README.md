@@ -19,48 +19,45 @@
 
 </p>
 
-#### Now
+### Now
 
 <!-- - ✨ Contributing to [chkware](https://github.com/chkware/cli); -->
 - :fire: Interested in Serverless and Cloud Systems Architecture;
 - :calendar: Looking into trading algorithms and automation technology;
 
-#### Bio
+### Bio
 
 - 🏫 I'm currently studing Masters at **University of Waterloo**
 - ⚙️ I use daily: `.cpp`, `.py`, `.pt`, `.sh`, `.js`, `.yml`
-- 🌍 I'm mostly active within the **Serverless**, and **Soccer Community**
+- 🌍 I'm mostly active within the **Serverless**, **Networking**, and **Soccer Community**
 - 🌱 Learning all about **System Architecture** and **Technical Writing**
 - 💬 Ping me about **Serverless**, **GPUs**, **RDMA**, **CRIU**, **Python**, **Docker**, **RestAPIs**, **ReactJS**, **NextJS**
 - ⚡ In my free time, I love reading books 📖, playing soccer ⚽, and prototyping app ideas 📊.
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/11aQ9crBbp2L7DXCPFPcZH4aE1gL2Zj1V/view?usp=sharing).
 
-#### My Current Stack
+<h3>My Current Stack</h3>
+<p>
+<img height="48" src="img/c-plus-plus.svg" alt="c++">&nbsp; 
+<img height="48" src="img/python-original.svg" alt="python">&nbsp; 
+<img height="48" src="img/pytorch-icon.svg" alt="pytorch">&nbsp; 
+<!-- <img height="48" src="img/django-plain-wordmark.svg" alt="Django">&nbsp;  -->
+<img height="48" src="img/postgresql-original.svg" alt="postgress">&nbsp;
+<img height="48" src="img/docker-original.svg" alt="Docker">&nbsp; 
+<img height="48" src="img/linux-original.svg" alt="linux">&nbsp;
+<img height="48" src="img/nginx-original.svg" alt="nginx">&nbsp;
+<img height="48" src="img/pytest-original.svg" alt="pytest">&nbsp;
+<!-- <img height="48" src="img/git-original.svg" alt="git">&nbsp;  -->
+<img height="48" src="img/react-original.svg" alt="react">&nbsp;
 
-<img height="48" src="img/c-plus-plus.svg" alt="c++"> 
-<img height="48" src="img/python-original.svg" alt="python"> 
-<img height="48" src="img/pytorch-icon.svg" alt="pytorch"> 
-<!-- <img height="48" src="img/django-plain-wordmark.svg" alt="Django">  -->
-<img height="48" src="img/postgresql-original.svg" alt="postgress"> 
-<img height="48" src="img/docker-original.svg" alt="Docker"> 
-<img height="48" src="img/linux-original.svg" alt="linux"> 
-<img height="48" src="img/nginx-original.svg" alt="nginx"> 
-<img height="48" src="img/pytest-original.svg" alt="pytest"> 
-<!-- <img height="48" src="img/git-original.svg" alt="git">  -->
-<img height="48" src="img/react-original.svg" alt="react">
 
-#### Languages and Tools
-
-<h2>Languages</h2>
+<h3>Languages</h3>
 <p>
 <img src="img/c-plus-plus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
-  
 </p>
-<h2>Systems Design</h2>
+<h3>Systems Design</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
@@ -69,7 +66,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 </p>  
-<h2>Frameworks</h2>
+<h3>Frameworks</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -81,7 +78,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </p>
-<h2>Tools</h2>
+<h3>Tools</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -91,7 +88,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-#### Development Stuffs
+## Development Stuffs
 
 <b>⚡ Github Stats</b>
 <p float="left">
@@ -105,7 +102,7 @@
 <img height="280em" src="https://raw.githubusercontent.com/justinsj/cf-stats/main/output/light_card.svg" />
 </p> -->
 
-#### Recent Activity
+## Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
